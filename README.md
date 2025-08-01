@@ -1,0 +1,2 @@
+# detectordeobjetos-unach
+DETECTOR DE OBJETOS CON IA - UNACH 2025 1S - ROBOTICA EDUCATIVA
